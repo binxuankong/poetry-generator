@@ -1,0 +1,7 @@
+nltk
+numpy
+theano
+pronouncing
+pytrie
+clarifai
+PIL
