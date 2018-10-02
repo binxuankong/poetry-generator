@@ -50,3 +50,4 @@ python TrainModel.py -m *mode* -i *iteratons* -f *filename*
 - iteration is the number of iterations to train the model
 - filename is the name to save the file as, must be of *.npz format
 
+Note that the trained models are not included as the file size is too big to be uploaded. Please train your own model for the program to be functionable.
