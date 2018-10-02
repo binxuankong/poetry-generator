@@ -25,7 +25,6 @@ python PoetryGenerator.py -m *mode* -i *iteratons* -t *theme*
 - iteration is the number of iterations trained of the model, with a selection of 20, 40, 60, 80, 100
 - theme is the theme of the generated poem, is no theme is given a random poem will be generated
 
-<br />
 To run the program with GUI
 For Python 2.7
 ```
@@ -41,7 +40,6 @@ The functionality of the program with GUI includes
 - generating a poem based on a theme or image
 - getting examples of Shakespeare's sonnets
 
-<br />
 To train your own neural netowrk model
 ```
 python TrainModel.py -m *mode* -i *iteratons* -f *filename*
