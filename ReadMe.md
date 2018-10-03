@@ -8,6 +8,8 @@ This program generates Shakespearean-styled sonnet using Recurrent Neural Networ
 - 14 lines with around 10 syllables each line
 - a rhyming scheme of *abab cdcd efef gg*.
 
+This project is created in partial fulfillment of the requirements for the degree of BSc (Hons) Computer Science and Mathematics, University of Manchester
+
 ## Setup
 
 Install Python requirements
